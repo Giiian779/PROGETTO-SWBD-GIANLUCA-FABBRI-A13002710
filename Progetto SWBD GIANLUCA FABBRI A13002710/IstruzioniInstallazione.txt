@@ -1,2 +1,3 @@
 Il progetto è stato fatto utilizzando XAMP, quindi la cartella del progetto(centro_cinofilo) dovrebbe essere posizionata all'interno di XAMP/htdocs.
 E' stato usato VScode come IDE.
+IMPORTANTE PER FARE I TEST SEGUIRE LE ISTRUZIONI DI ISTRUZIONITEST.TXT PRESENTE NELLA STESSA REPOSITORY, IN MODO DA POTER SCARICARE LA CARTELLA VENDOR E TUTTO IL NECESSARIO PER POTER ESEGUIRE I TEST
