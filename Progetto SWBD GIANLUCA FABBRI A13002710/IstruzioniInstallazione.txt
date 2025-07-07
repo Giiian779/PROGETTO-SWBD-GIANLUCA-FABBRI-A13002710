@@ -1,0 +1,2 @@
+Il progetto è stato fatto utilizzando XAMP, quindi la cartella del progetto(centro_cinofilo) dovrebbe essere posizionata all'interno di XAMP/htdocs.
+E' stato usato VScode come IDE.
